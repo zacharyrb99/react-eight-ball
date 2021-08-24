@@ -1,0 +1,25 @@
+.EightBall{
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 150px;
+    width: 15rem;
+    height: 15rem;
+    margin: auto;
+}
+
+.EightBall-header{
+    text-align: center;
+}
+
+.EightBall-text{
+    vertical-align: middle;
+    text-align: center;
+    line-height: 15rem;
+    color: white;
+    font-weight: bold;
+}
+
+.reset-button{
+    margin-top: 5vh;
+    margin-left: 45vw;
+}
